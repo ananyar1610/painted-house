@@ -75,4 +75,7 @@ pip install -r requirements.txt
  - SegFormer-B0 (fine-tuned on CMP Facade)
    `https://huggingface.co/Xpitfire/segformer-finetuned-segments-cmp-facade`
 
-   
+
+#### Disclaimer
+
+Parts of this project were developed with the assistance of modern coding tools, including AI-based code generation and debugging aids.
