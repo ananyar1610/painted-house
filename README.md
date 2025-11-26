@@ -78,5 +78,4 @@ pip install -r requirements.txt
 
 ## Disclaimer
 
-AI-assisted tools were used extensively to produce the code and documentation in this project. I validated and tested all components and ensured that I understand how the full pipeline works end-to-end.
-
+AI-based coding tools were used as part of the development process for this project. All code was generated through iterative guidance, review, and refinement on my part.
