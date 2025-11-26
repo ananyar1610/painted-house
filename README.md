@@ -76,6 +76,7 @@ pip install -r requirements.txt
    `https://huggingface.co/Xpitfire/segformer-finetuned-segments-cmp-facade`
 
 
-#### Disclaimer
+## Disclaimer
 
-Parts of this project were developed with the assistance of modern coding tools, including AI-based code generation and debugging aids.
+AI-assisted tools were used extensively to produce the code and documentation in this project. I validated and tested all components and ensured that I understand how the full pipeline works end-to-end.
+
